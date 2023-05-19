@@ -24,12 +24,12 @@ This document was created by LunarDAO [community](https:lunardao.net/community.h
 22. Stateless people: People without ("fitting) national identities may want to protect their identities and use privacy to gain access to financial instruments without a risk of thir funds being frozen.
 23. Members of minority religious groups: Individuals who belong to religious groups that are not well-known or accepted by the mainstream may want to maintain anonymity and protect their privacy due to discrimination and persecution.
 
-  a. Pagans: Individuals who practice pagan religions may want to maintain anonymity and protect their privacy due to discrimination and persecution.
-  b. Falun Gong practitioners: People who practice Falun Gong may want to protect their identities and avoid persecution by the Chinese government.
-  c. Jehovah's Witnesses: Members of this religious group may want to protect their identities and financial information due to their history of being targeted by governments and other groups.
-  d. Scientologists: Members of the Church of Scientology may want to protect their identities and financial information due to their history of being targeted by governments and other groups.
-  e. Amish: Members of the Amish community may want to maintain privacy and protect their identities from the outside world.
-  f. Hare Krishnas: Members of the Hare Krishna movement may want to maintain anonymity and protect their privacy due to their beliefs and practices being misunderstood or stigmatized.
-  g. New religious movements: Individuals who are part of new or unconventional religious movements may want to maintain privacy and protect their identities from mainstream society and government scrutiny.
-  h. Muslim converts: People who have converted to Islam may want to protect their identities and maintain privacy due to discrimination and prejudice.
-  j. Spiritualists: People who practice spiritualism or communicate with spirits may want to maintain anonymity and protect their privacy due to the stigmatization of their beliefs.
+  a. Pagans: Individuals who practice pagan religions may want to maintain anonymity and protect their privacy due to discrimination and persecution.  
+  b. Falun Gong practitioners: People who practice Falun Gong may want to protect their identities and avoid persecution by the Chinese government.  
+  c. Jehovah's Witnesses: Members of this religious group may want to protect their identities and financial information due to their history of being targeted by governments and other groups.  
+  d. Scientologists: Members of the Church of Scientology may want to protect their identities and financial information due to their history of being targeted by governments and other groups.  
+  e. Amish: Members of the Amish community may want to maintain privacy and protect their identities from the outside world.  
+  f. Hare Krishnas: Members of the Hare Krishna movement may want to maintain anonymity and protect their privacy due to their beliefs and practices being misunderstood or stigmatized.  
+  g. New religious movements: Individuals who are part of new or unconventional religious movements may want to maintain privacy and protect their identities from mainstream society and government scrutiny.  
+  h. Muslim converts: People who have converted to Islam may want to protect their identities and maintain privacy due to discrimination and prejudice.  
+  j. Spiritualists: People who practice spiritualism or communicate with spirits may want to maintain anonymity and protect their privacy due to the stigmatization of their beliefs.  
