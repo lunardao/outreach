@@ -1,2 +1,4 @@
-# outreach
-Lunarpunk the world! Communities, media, marketing, ideas, strategy and more.
+# Outreach
+## Lunarpunk the world! 
+
+Communities, media, marketing, ideas, strategy and more.
